@@ -1,0 +1,125 @@
+
+.myName{
+    margin-left: 380px;
+    margin-top: 25px;
+}
+
+.nav{
+    margin-right: 390px;
+    margin-top: -50px; 
+   
+}
+
+
+
+.container{
+    
+    margin-top: 30px;
+ 
+  
+}
+
+
+.mainContentDiv{
+    
+    margin-top: 30px;
+  
+   
+}
+
+
+
+#my_img{      
+    width: 230px;
+    height: 230px;
+    margin: auto;       
+    padding-left: 5px;
+    margin-top: 10px;  
+    float: left;
+    padding-right: 20px;
+}
+
+
+.image{
+    width: 200px;
+    height: 200px;
+    
+    margin-top: 20px;
+   
+   
+}
+
+.image_label{
+
+    width: 200px;
+    height: 50px;
+    background-color: teal;    
+    margin-left: -200px;
+    margin-top: 135px;
+    position: absolute;
+    text-align: center;
+    padding-top: 10px;
+    color: white;       
+}
+
+.jumbotron{
+    padding-top: 0px;
+    margin-left: -10px;
+    padding-bottom: 10px;   
+    background-color: #dddddd;
+}
+
+#message{
+    height: 400px;
+}
+
+#submitBtn{
+
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.ruler{
+   margin-left: 0px;
+   margin-right: 0px;
+   color: grey;
+   margin-top: -35px;
+   margin-bottom: 0px;
+   padding-bottom: 0px;
+   padding-left: 0px;
+   padding-right: 0px;
+}
+
+.contact{
+
+    color:#4aaaa5;  
+    font-size: 30px;  
+    line-height: 100px;
+    text-align: center;
+    vertical-align: middle;  
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+
+.aboutMe{
+  
+    color:#4aaaa5;  
+    font-size: 30px;  
+    line-height: 100px;
+    text-align: left;
+    vertical-align: middle;  
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+ }
+
+
+
+
+
+
+
